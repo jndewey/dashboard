@@ -2,13 +2,13 @@
 
 **A Jupyter notebook designed for lawyers.**
 
-![screenshots](/Users/josiasdewey/jupyter/dashboard/static/Screenshot_2018-10-06  lawyer_notebook-0(3).png)
+![screenshots](Screenshot_2018-10-06  lawyer_notebook-0(3).png)
 
-![screenshots](/Users/josiasdewey/jupyter/dashboard/static/Screenshot_2018-10-06  lawyer_notebook-0(1).png)
+![screenshots](Screenshot_2018-10-06  lawyer_notebook-0(1).png)
 
-![screenshots](/Users/josiasdewey/jupyter/dashboard/static/Screenshot_2018-10-06  lawyer_notebook-0(4).png)
+![screenshots](Screenshot_2018-10-06  lawyer_notebook-0(4).png)
 
-![screenshots](/Users/josiasdewey/jupyter/dashboard/static/Screenshot_2018-10-06  lawyer_notebook-0(2).png)
+![screenshots](Screenshot_2018-10-06  lawyer_notebook-0(2).png)
 
 
 ## Try it live
