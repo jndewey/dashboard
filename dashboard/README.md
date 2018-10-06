@@ -2,7 +2,7 @@
 
 **A Jupyter notebook designed for lawyers.**
 
-![screenshots](![alt text](https://raw.githubusercontent.com/jndewey/dashboard/tree/master/dashboard/Screenshot_2018-10-06  lawyer_notebook-0(3).png)
+![screenshots](![alt text](https://github.com/jndewey/dashboard/blob/master/dashboard/Screenshot_2018-10-06%20%20lawyer_notebook-0(3).png)
 
 ![screenshots](Screenshot_2018-10-06  lawyer_notebook-0(1).png)
 
