@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="02782366-2130-4f36-bf4b-2203a89fc356" name="Default Changelist" comment=" folder added">
-      <change afterPath="$PROJECT_DIR$/../Closing Binder Generator/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Closing Binder Generator/closing_binder.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/appmode/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/appmode/appmode.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/appmode/appmode_bottom.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/appmode/appmode_top.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/appmode/server_extension.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/appmode/static/gears.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/appmode/static/main.js" afterDir="false" />
+    <list default="true" id="02782366-2130-4f36-bf4b-2203a89fc356" name="Default Changelist" comment="fix readme">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -41,14 +32,14 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="md" value="121" />
-          <entry key="txt" value="25" />
+          <entry key="md" value="159" />
+          <entry key="txt" value="53" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Markdown" value="121" />
-          <entry key="PLAIN_TEXT" value="25" />
+          <entry key="Markdown" value="159" />
+          <entry key="PLAIN_TEXT" value="53" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
@@ -57,19 +48,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="261">
-                <caret line="26" column="45" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="49" />
+              <first_editor relative-caret-position="66">
+                <caret line="4" column="101" selection-start-line="4" selection-start-column="101" selection-end-line="4" selection-end-column="101" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Dockerfile">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
@@ -142,6 +133,11 @@
       </console-settings>
     </option>
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -210,11 +206,33 @@
       <option name="project" value="LOCAL" />
       <updated>1538866661998</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="screensots moved">
+      <created>1538866778252</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1538866778252</updated>
+    </task>
+    <task id="LOCAL-00005" summary="fix readme">
+      <created>1538866889148</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1538866889148</updated>
+    </task>
+    <task id="LOCAL-00006" summary="fix readme">
+      <created>1538867457600</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1538867457600</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="808" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15164521" />
@@ -258,7 +276,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add appmode" />
     <MESSAGE value=" folder added" />
-    <option name="LAST_COMMIT_MESSAGE" value=" folder added" />
+    <MESSAGE value="screensots moved" />
+    <MESSAGE value="fix readme" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix readme" />
   </component>
   <component name="atlassian-ide-plugin-workspace-issues">
     <option name="view">
@@ -268,18 +288,18 @@
     </option>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="261">
-            <caret line="26" column="45" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="49" />
+          <first_editor relative-caret-position="66">
+            <caret line="4" column="101" selection-start-line="4" selection-start-column="101" selection-end-line="4" selection-end-column="101" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Dockerfile">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
