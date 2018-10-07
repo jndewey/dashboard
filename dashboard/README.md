@@ -2,13 +2,11 @@
 
 **A Jupyter notebook designed for lawyers.**
 
-![alt text](https://github.com/jndewey/dashboard/blob/master/dashboard/Screenshot_2018-10-06%20%20lawyer_notebook-0(3).png)
+![alt text](https://github.com/jndewey/dashboard/blob/master/dashboard/Screenshot_2018-10-06%%20%20lawyer_notebook-0(5).png)
 
-![alt text](https://github.com/jndewey/dashboard/blob/master/dashboard/Screenshot_2018-10-06%20%20lawyer_notebook-0(1).png)
+![alt text](https://github.com/jndewey/dashboard/blob/master/dashboard/Screenshot_2018-10-06%20%20lawyer_notebook-0(6).png)
 
-![alt text](https://github.com/jndewey/dashboard/blob/master/dashboard/Screenshot_2018-10-06%20%20lawyer_notebook-0(4).png)
-
-![alt text](https://github.com/jndewey/dashboard/blob/master/dashboard/Screenshot_2018-10-06%20%20lawyer_notebook-0(2).png)
+![alt text](https://github.com/jndewey/dashboard/blob/master/dashboard/Screenshot_2018-10-06%20%20lawyer_notebook-0(6).png)
 
 
 ## Try it live
